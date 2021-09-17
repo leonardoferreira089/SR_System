@@ -1,0 +1,16 @@
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.AssemblyReference.cache
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.genruntimeconfig.cache

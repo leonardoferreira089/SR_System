@@ -1,0 +1,10 @@
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.AssemblyReference.cache
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
