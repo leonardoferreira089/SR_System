@@ -89,3 +89,5 @@ D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.App\bin\Debug\netcoreapp3.
 D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.App\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Bureau\Développeur\MyProjects\SR_System\src\DevIO.App\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "dJ9D+mK90PjldcKhBwhVc6ngMz03fL5W2Wh1nPSWDv1weSFYNz3Y/4tFRDT53M/4Q+/jD6PNzOd3uvidvIE+xA==",
+  "dgSpecHash": "SKoMgc+fkRVbx7kS6+JhEBm3w5Y9yBfb10EOe1+uF6eGr/2LtG3+VCaLlFaPdgQVRinZyD+F+ktZYZY70mnF1Q==",
   "success": true,
   "projectFilePath": "D:\\Bureau\\Développeur\\MyProjects\\SR_System\\src\\DevIO.Business\\DevIO.Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

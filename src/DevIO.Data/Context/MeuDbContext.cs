@@ -20,7 +20,7 @@ namespace DevIO.Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            foreach (var property in modelBuilder.Model.GetEntityTypes()
+            foreach (var property in modelBuilder.Model.GetEntityTypes()     //se for necessário todos vão ter o tamanho varvhar 100
                 .SelectMany(e => e.GetProperties()
                     .Where(p => p.ClrType == typeof(string))))
             {
@@ -29,7 +29,8 @@ namespace DevIO.Data.Context
 
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(MeuDbContext).Assembly);
 
-            foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys())) relationship.DeleteBehavior = DeleteBehavior.ClientSetNull;
+            foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys())) relationship.DeleteBehavior = DeleteBehavior.ClientSetNull;  
+            //desabilita o cascade delete no caso quando uma classe for excluida leve os filhos juntos
 
             base.OnModelCreating(modelBuilder);
         }
